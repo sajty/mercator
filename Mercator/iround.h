@@ -7,6 +7,6 @@
 
 #include <cmath>
 
-#define I_ROUND(_x) (std::rint(_x))
+#define I_ROUND(_x) (int(_x))
 
 #endif // MERCATOR_IROUND_H
