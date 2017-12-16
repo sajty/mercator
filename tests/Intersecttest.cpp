@@ -6,6 +6,8 @@
 #include <Mercator/Segment.h>
 #include <Mercator/Intersect.h>
 
+#include <algorithm>
+
 #include <iostream>
 
 int main()
